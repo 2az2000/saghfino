@@ -1,0 +1,10 @@
+.slider{
+    display: flex;
+    gap: 10px;
+    overflow: hidden;
+    transition: transform 0.1s ease-in-out;
+    justify-content: space-between;
+}
+.slider.animating {
+    transform: translateX(-110px);
+  }

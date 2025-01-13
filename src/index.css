@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* !----------fonts------------ */
+@font-face {
+    font-family: shabnam-bold;
+    src: url(assets/font/Shabnam-Bold.ttf);
+}
+@font-face {
+    font-family: shabnam-light;
+    src: url(assets/font/Shabnam-Light.ttf);
+}
+@font-face {
+    font-family: shabnam-medium;
+    src: url(assets/font/Shabnam-Medium.ttf);
+}
+@font-face {
+    font-family: shabnam-thin;
+    src: url(assets/font/Shabnam-Thin.ttf);
+}
+@font-face {
+    font-family: shabnam;
+    src: url(assets/font/Shabnam.ttf);
+}
+
+
+/* !-------------- color-palet -------------- */
+:root{
+    --perimary-color: #CB1B1B;
+    --perimary-color-shade1: #B41818;
+    --perimary-color-shade2: #9E1515;
+    --perimary-color-shade3: #871212;
+    --perimary-color-shade4: #700F0F;
+    --perimary-color-shade5: #5A0C0C;
+    --perimary-color-shade6: #430909;
+
+    --perimary-color-tint1: #FDF1F1;
+    --perimary-color-tint2: #FCE8E8;
+    --perimary-color-tint3: #F9D2D2;
+    --perimary-color-tint4: #F6BBBB;
+    --perimary-color-tint5: #FCA197;
+    --perimary-color-tint6: #F66262;
+
+    --Neutral-gray1: #FAFAFA;
+    --Neutral-gray2: #F9F9F9;
+    --Neutral-gray3: #EDEDED;
+    --Neutral-gray4: #E1E1E1;
+    --Neutral-gray5: #D9D9D9;
+    --Neutral-gray6: #CBCBCB;
+    --Neutral-gray7: #ADADAD;
+    --Neutral-gray8: #909090;
+    --Neutral-gray9: #717171;
+    --Neutral-gray10: #505050;
+    --Neutral-gray11: #353535;
+    --Neutral-gray12: #212121;
+    --Neutral-gray13: #121212;
+
+    --State--error:#C30000;
+    --State--ELight-1:#ED2E2E;
+    --State--ELight-2:#FFF2F2;
+    
+    --State--Success: #00966D;
+    --State--SLight-1: #00BA88;
+    --State--SLight-2: #F3FDFA   ;
+    
+    --State--Warning: #A9791C;
+    --State--WLight-1: #F4B740;
+    --State--WLight-2: #FFF8E1;
+}

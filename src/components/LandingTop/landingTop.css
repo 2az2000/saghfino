@@ -1,0 +1,55 @@
+.landing-main {
+  height: 90vh;
+  background-image: url("src/assets/images/landing-bg.png");
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.landing-main h1 {
+  font-size: 40px;
+  font-family: shabnam-bold;
+  font-weight: 600;
+  color: white;
+  margin-top: 100px;
+}
+.landing-main h2 {
+  font-size: 25px;
+  font-family: shabnam-bold;
+  font-weight: 600;
+  color: white;
+}
+
+.loan h3,
+.buy h3 {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: shabnam;
+  border-bottom: 1px solid black;
+  padding: 10px 0px;
+  cursor: pointer;
+}
+.loan input,
+.buy input {
+  padding: 10px 0px;
+}
+
+@media screen and (max-width: 900px) {
+  .landing-search-box {
+    width: 70% !important;
+    padding-top: 10px !important;
+  }
+}
+@media screen and (max-width: 750px) {
+  .landing-main h1 {
+    font-size: 30px;
+  }
+  .landing-main h2 {
+    font-size: 20px;
+  }
+}
+@media screen and (max-width: 480px) {
+}

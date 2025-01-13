@@ -1,0 +1,13 @@
+.card-container{
+    background-color: var(--Neutral-gray2);
+    border: 1px solid var(--Neutral-gray4);
+}
+
+.help-btn{
+    margin-top: 80px;
+    background-color: var(--perimary-color);
+    color: white;
+    padding: 8px 5px;
+    border: none;
+    border-radius: 10px;
+}

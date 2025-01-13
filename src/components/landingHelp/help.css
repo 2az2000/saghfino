@@ -1,0 +1,23 @@
+/* .card-handler{
+    flex-wrap: wrap;
+} */
+
+@media screen and (max-width: 900px) {
+    .card-handler{
+        flex-direction: column !important;
+    }
+    .card-container{
+        width: 100% !important;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .landing-main h1 {
+      font-size: 30px;
+    }
+    .landing-main h2 {
+      font-size: 20px;
+    }
+  }
+  @media screen and (max-width: 480px) {
+  }
+
