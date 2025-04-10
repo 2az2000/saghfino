@@ -1,0 +1,4700 @@
+{
+  "newsCard": [
+    {
+      "src": "src/assets/images/landingSlider1.png",
+      "title": "رکود بازار مسکن؛فروشندگان در انتظار خریداران و خریداران در انتظار شکست نرخ فروشندگان",
+      "id": "7f22"
+    },
+    {
+      "src": "src/assets/images/landingSlider2.png",
+      "title": "خطر ویرانی زلزله در آسمان‌خراش‌ها بیشتر است یا در آپارتمان‌های کم‌ارتفاع و یا خانه‌های",
+      "id": "3a36"
+    },
+    {
+      "src": "src/assets/images/landingSlider3.png",
+      "title": "بازار کساد کسب و کار معماران داخلی در پی بالا رفتن قیمت مواد و متریال اولیه و مصالح خارجی",
+      "id": "08c7"
+    },
+    {
+      "src": "src/assets/images/landingSlider4.png",
+      "title": "شهرک ساحلی زمزم در منطقه نور استان مازندران از سوم شهریور وارد بازار مزایده شده است. ",
+      "id": "1248"
+    },
+    {
+      "src": "src/assets/images/landingSlider1.png",
+      "title": "رکود بازار مسکن؛فروشندگان در انتظار خریداران و خریداران در انتظار شکست نرخ فروشندگان",
+      "id": "057e"
+    },
+    {
+      "src": "src/assets/images/landingSlider2.png",
+      "title": "خطر ویرانی زلزله در آسمان‌خراش‌ها بیشتر است یا در آپارتمان‌های کم‌ارتفاع و یا خانه‌های",
+      "id": "2030"
+    },
+    {
+      "src": "src/assets/images/landingSlider3.png",
+      "title": "بازار کساد کسب و کار معماران داخلی در پی بالا رفتن قیمت مواد و متریال اولیه و مصالح خارجی",
+      "id": "a4aa"
+    },
+    {
+      "src": "src/assets/images/landingSlider4.png",
+      "title": "شهرک ساحلی زمزم در منطقه نور استان مازندران از سوم شهریور وارد بازار مزایده شده است. ",
+      "id": "37ac"
+    }
+  ],
+  "users": [
+    {
+      "id": "a5ba",
+      "name": "amirali",
+      "email": "amiralizand@gmail.com",
+      "password": "123456789"
+    },
+    {
+      "id": "5759",
+      "name": "shaghayegh",
+      "email": "shaghayegh67@gmail.com",
+      "password": "shaghayegh"
+    }
+  ],
+  "realEstate": [
+    {
+      "id": 1,
+      "title": "۱۰۰ متر، محدوده ولیعصر، تابان",
+      "price": 3500000000,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 15000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "نوساز",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "کمد دیواری، پنجره‌ها UPVC",
+        "visiting_hours": "۷ صبح تا ۱۱ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "12",
+      "city": "تهران"
+    },
+    {
+      "id": 2,
+      "title": "۱۲۰ متر، محدوده سعادت‌آباد، نگین",
+      "price": 2800000000,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 12000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 7
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "جنوبی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "2",
+      "city": "مشهد"
+    },
+    {
+      "id": 3,
+      "title": "۹۰ متر، محدوده پل معالی‌آباد، بهار",
+      "price": 1800000000,
+      "rent": {
+        "deposit": 300000000,
+        "monthly_rent": 10000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 8,
+        "property_unit": 3
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ عمومی، بالکن کوچک",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "3",
+      "city": "شیراز"
+    },
+    {
+      "id": 4,
+      "title": "۱۵۰ متر، محدوده چهارباغ، نگارستان",
+      "price": 2200000000,
+      "rent": {
+        "deposit": 600000000,
+        "monthly_rent": 20000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "نوساز",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "4",
+      "city": "اصفهان"
+    },
+    {
+      "id": 5,
+      "title": "۸۰ متر، محدوده جنت‌آباد، ستاره",
+      "price": 1200000000,
+      "rent": {
+        "deposit": 200000000,
+        "monthly_rent": 8000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۵ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "5",
+      "city": "تبریز"
+    },
+    {
+      "id": 6,
+      "title": "۱۳۰ متر، محدوده فرمانیه، الماس",
+      "price": 4500000000,
+      "rent": {
+        "deposit": 700000000,
+        "monthly_rent": 25000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 2,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 20,
+        "property_unit": 10
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "6",
+      "city": "تهران"
+    },
+    {
+      "id": 7,
+      "title": "۱۱۰ متر، محدوده نیاوران، الماس",
+      "price": 5000000000,
+      "rent": {
+        "deposit": 800000000,
+        "monthly_rent": 30000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 7
+      },
+      "description": {
+        "building_age": "نوساز",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "1",
+      "city": "تهران"
+    },
+    {
+      "id": 8,
+      "title": "۹۵ متر، محدوده الهیه، ستاره",
+      "price": 4200000000,
+      "rent": {
+        "deposit": 600000000,
+        "monthly_rent": 22000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "3",
+      "city": "تهران"
+    },
+    {
+      "id": 9,
+      "title": "۱۳۵ متر، محدوده زعفرانیه، طلایی",
+      "price": 6000000000,
+      "rent": {
+        "deposit": 1000000000,
+        "monthly_rent": 40000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "parking_spaces": 3,
+        "storage_rooms": 2,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 20,
+        "property_unit": 10
+      },
+      "description": {
+        "building_age": "۲ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "2",
+      "city": "تهران"
+    },
+    {
+      "id": 10,
+      "title": "۸۵ متر، محدوده گلسار، بهار",
+      "price": 1800000000,
+      "rent": {
+        "deposit": 250000000,
+        "monthly_rent": 9000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 8,
+        "property_unit": 3
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ عمومی، بالکن کوچک",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "4",
+      "city": "رشت"
+    },
+    {
+      "id": 11,
+      "title": "۱۴۰ متر، محدوده چمران، الماس",
+      "price": 3200000000,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 18000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "5",
+      "city": "اصفهان"
+    },
+    {
+      "id": 12,
+      "title": "۷۵ متر، محدوده آزادی، ستاره",
+      "price": 1500000000,
+      "rent": {
+        "deposit": 200000000,
+        "monthly_rent": 7000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۵ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "6",
+      "city": "تبریز"
+    },
+    {
+      "id": 13,
+      "title": "۱۶۰ متر، محدوده پاسداران، طلایی",
+      "price": 7000000000,
+      "rent": {
+        "deposit": 1200000000,
+        "monthly_rent": 50000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "parking_spaces": 3,
+        "storage_rooms": 2,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 20,
+        "property_unit": 10
+      },
+      "description": {
+        "building_age": "۱ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "7",
+      "city": "تهران"
+    },
+    {
+      "id": 14,
+      "title": "۱۰۵ متر، محدوده ملاصدرا، نگین",
+      "price": 3800000000,
+      "rent": {
+        "deposit": 550000000,
+        "monthly_rent": 20000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۴ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "8",
+      "city": "تهران"
+    },
+    {
+      "id": 15,
+      "title": "۱۲۰ متر، محدوده شریعتی، الماس",
+      "price": 4500000000,
+      "rent": {
+        "deposit": 700000000,
+        "monthly_rent": 25000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "9",
+      "city": "تهران"
+    },
+    {
+      "id": 16,
+      "title": "۹۰ متر، محدوده ونک، ستاره",
+      "price": 4000000000,
+      "rent": {
+        "deposit": 600000000,
+        "monthly_rent": 22000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "10",
+      "city": "تهران"
+    },
+    {
+      "id": 17,
+      "title": "۱۳۰ متر، محدوده شهرک غرب، طلایی",
+      "price": 5500000000,
+      "rent": {
+        "deposit": 900000000,
+        "monthly_rent": 35000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "11",
+      "city": "تهران"
+    },
+    {
+      "id": 18,
+      "title": "۱۰۰ متر، محدوده اقدسیه، نگین",
+      "price": 4800000000,
+      "rent": {
+        "deposit": 700000000,
+        "monthly_rent": 28000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۴ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "12",
+      "city": "تهران"
+    },
+    {
+      "id": 19,
+      "title": "۱۴۰ متر، محدوده چالوس، الماس",
+      "price": 3200000000,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 18000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "1",
+      "city": "چالوس"
+    },
+    {
+      "id": 20,
+      "title": "۹۵ متر، محدوده رشت، ستاره",
+      "price": 1500000000,
+      "rent": {
+        "deposit": 200000000,
+        "monthly_rent": 7000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۵ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "2",
+      "city": "رشت"
+    },
+    {
+      "id": 21,
+      "title": "۱۶۰ متر، محدوده کرج، طلایی",
+      "price": 2500000000,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 12000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "parking_spaces": 3,
+        "storage_rooms": 2,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 20,
+        "property_unit": 10
+      },
+      "description": {
+        "building_age": "۲ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "3",
+      "city": "کرج"
+    },
+    {
+      "id": 22,
+      "title": "۱۱۰ متر، محدوده قم، نگین",
+      "price": 1800000000,
+      "rent": {
+        "deposit": 250000000,
+        "monthly_rent": 9000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "4",
+      "city": "قم"
+    },
+    {
+      "id": 23,
+      "title": "۱۳۵ متر، محدوده یزد، الماس",
+      "price": 2200000000,
+      "rent": {
+        "deposit": 350000000,
+        "monthly_rent": 11000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "5",
+      "city": "یزد"
+    },
+    {
+      "id": 24,
+      "title": "۸۵ متر، محدوده ارومیه، ستاره",
+      "price": 1200000000,
+      "rent": {
+        "deposit": 150000000,
+        "monthly_rent": 6000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "6",
+      "city": "ارومیه"
+    },
+    {
+      "id": 25,
+      "title": "۱۵۰ متر، محدوده بندرعباس، طلایی",
+      "price": 2800000000,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 13000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "7",
+      "city": "بندرعباس"
+    },
+    {
+      "id": 26,
+      "title": "۱۲۰ متر، محدوده زنجان، نگین",
+      "price": 1900000000,
+      "rent": {
+        "deposit": 300000000,
+        "monthly_rent": 10000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "8",
+      "city": "زنجان"
+    },
+    {
+      "id": 27,
+      "title": "۱۴۰ متر، محدوده اصفهان، الماس",
+      "price": 3200000000,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 18000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "9",
+      "city": "اصفهان"
+    },
+    {
+      "id": 28,
+      "title": "۹۵ متر، محدوده شیراز، ستاره",
+      "price": 1500000000,
+      "rent": {
+        "deposit": 200000000,
+        "monthly_rent": 7000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "10",
+      "city": "شیراز"
+    },
+    {
+      "id": 29,
+      "title": "۱۶۰ متر، محدوده کرمان، طلایی",
+      "price": 2500000000,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 12000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "parking_spaces": 3,
+        "storage_rooms": 2,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 20,
+        "property_unit": 10
+      },
+      "description": {
+        "building_age": "۲ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "11",
+      "city": "کرمان"
+    },
+    {
+      "id": 30,
+      "title": "۱۱۰ متر، محدوده همدان، نگین",
+      "price": 1800000000,
+      "rent": {
+        "deposit": 250000000,
+        "monthly_rent": 9000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "12",
+      "city": "همدان"
+    },
+    {
+      "id": 31,
+      "title": "۱۳۵ متر، محدوده قزوین، الماس",
+      "price": 2200000000,
+      "rent": {
+        "deposit": 350000000,
+        "monthly_rent": 11000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "13",
+      "city": "قزوین"
+    },
+    {
+      "id": 32,
+      "title": "۸۵ متر، محدوده ساری، ستاره",
+      "price": 1200000000,
+      "rent": {
+        "deposit": 150000000,
+        "monthly_rent": 6000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "14",
+      "city": "ساری"
+    },
+    {
+      "id": 33,
+      "title": "۱۵۰ متر، محدوده گرگان، طلایی",
+      "price": 2800000000,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 13000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "15",
+      "city": "گرگان"
+    },
+    {
+      "id": 34,
+      "title": "۱۲۰ متر، محدوده بجنورد، نگین",
+      "price": 1900000000,
+      "rent": {
+        "deposit": 300000000,
+        "monthly_rent": 10000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "16",
+      "city": "بجنورد"
+    },
+    {
+      "id": 35,
+      "title": "۱۳۰ متر، محدوده یاسوج، الماس",
+      "price": 2200000000,
+      "rent": {
+        "deposit": 350000000,
+        "monthly_rent": 11000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "17",
+      "city": "یاسوج"
+    },
+    {
+      "id": 36,
+      "title": "۹۰ متر، محدوده خرم‌آباد، ستاره",
+      "price": 1200000000,
+      "rent": {
+        "deposit": 150000000,
+        "monthly_rent": 6000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "18",
+      "city": "خرم‌آباد"
+    },
+    {
+      "id": 37,
+      "title": "۱۴۰ متر، محدوده سنندج، الماس",
+      "price": 2200000000,
+      "rent": {
+        "deposit": 350000000,
+        "monthly_rent": 11000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "19",
+      "city": "سنندج"
+    },
+    {
+      "id": 38,
+      "title": "۹۵ متر، محدوده زاهدان، ستاره",
+      "price": 1200000000,
+      "rent": {
+        "deposit": 150000000,
+        "monthly_rent": 6000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "20",
+      "city": "زاهدان"
+    },
+    {
+      "id": 39,
+      "title": "۱۶۰ متر، محدوده کرمانشاه، طلایی",
+      "price": 2800000000,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 13000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "21",
+      "city": "کرمانشاه"
+    },
+    {
+      "id": 40,
+      "title": "۱۲۰ متر، محدوده اراک، نگین",
+      "price": 1900000000,
+      "rent": {
+        "deposit": 300000000,
+        "monthly_rent": 10000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "22",
+      "city": "اراک"
+    },
+    {
+      "id": 41,
+      "title": "۱۴۰ متر، محدوده بوشهر، الماس",
+      "price": 3200000000,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 18000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "23",
+      "city": "بوشهر"
+    },
+    {
+      "id": 42,
+      "title": "۹۵ متر، محدوده بیرجند، ستاره",
+      "price": 1500000000,
+      "rent": {
+        "deposit": 200000000,
+        "monthly_rent": 7000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "24",
+      "city": "بیرجند"
+    },
+    {
+      "id": 43,
+      "title": "۱۶۰ متر، محدوده ایلام، طلایی",
+      "price": 2500000000,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 12000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 5,
+        "bathrooms": 4,
+        "parking_spaces": 3,
+        "storage_rooms": 2,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 20,
+        "property_unit": 10
+      },
+      "description": {
+        "building_age": "۲ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "25",
+      "city": "ایلام"
+    },
+    {
+      "id": 44,
+      "title": "۱۱۰ متر، محدوده شهرکرد، نگین",
+      "price": 1800000000,
+      "rent": {
+        "deposit": 250000000,
+        "monthly_rent": 9000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "26",
+      "city": "شهرکرد"
+    },
+    {
+      "id": 45,
+      "title": "۱۳۵ متر، محدوده سمنان، الماس",
+      "price": 2200000000,
+      "rent": {
+        "deposit": 350000000,
+        "monthly_rent": 11000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "27",
+      "city": "سمنان"
+    },
+    {
+      "id": 46,
+      "title": "۸۵ متر، محدوده دامغان، ستاره",
+      "price": 1200000000,
+      "rent": {
+        "deposit": 150000000,
+        "monthly_rent": 6000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "28",
+      "city": "دامغان"
+    },
+    {
+      "id": 47,
+      "title": "۱۵۰ متر، محدوده سبزوار، طلایی",
+      "price": 2800000000,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 13000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "29",
+      "city": "سبزوار"
+    },
+    {
+      "id": 48,
+      "title": "۱۲۰ متر، محدوده نیشابور، نگین",
+      "price": 1900000000,
+      "rent": {
+        "deposit": 300000000,
+        "monthly_rent": 10000000
+      },
+      "details": {
+        "transaction_type": "رهن",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ اختصاصی، بالکن",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "30",
+      "city": "نیشابور"
+    },
+    {
+      "id": 49,
+      "title": "۱۳۰ متر، محدوده کاشان، الماس",
+      "price": 2200000000,
+      "rent": {
+        "deposit": 350000000,
+        "monthly_rent": 11000000
+      },
+      "details": {
+        "transaction_type": "خرید",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "چیلر",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ اختصاصی، بالکن بزرگ",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "31",
+      "city": "کاشان"
+    },
+    {
+      "id": 50,
+      "title": "۹۰ متر، محدوده قم، ستاره",
+      "price": 1200000000,
+      "rent": {
+        "deposit": 150000000,
+        "monthly_rent": 6000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "موزاییک",
+        "elevators": 0,
+        "cooling_system": "کولر آبی",
+        "heating_system": "بخاری",
+        "toilet_type": "ایرانی",
+        "building_units": 6,
+        "property_unit": 2
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون معمولی",
+        "other_features": "پارکینگ عمومی، حیاط کوچک",
+        "visiting_hours": "۱۰ صبح تا ۸ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "32",
+      "city": "قم"
+    },
+    {
+      "id": 51,
+      "title": "۸۰ متر، محدوده سعادت‌آباد، نگین",
+      "price": 0,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 12000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 8,
+        "property_unit": 3
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "جنوبی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "سعادت‌آباد",
+      "city": "تهران"
+    },
+    {
+      "id": 52,
+      "title": "۱۲۰ متر، محدوده نیاوران، ستاره",
+      "price": 0,
+      "rent": {
+        "deposit": 600000000,
+        "monthly_rent": 18000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 6
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "نیاوران",
+      "city": "تهران"
+    },
+    {
+      "id": 53,
+      "title": "۹۰ متر، محدوده پاسداران، الماس",
+      "price": 0,
+      "rent": {
+        "deposit": 550000000,
+        "monthly_rent": 16000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 7
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "پاسداران",
+      "city": "تهران"
+    },
+    {
+      "id": 54,
+      "title": "۷۰ متر، محدوده تجریش، طلایی",
+      "price": 0,
+      "rent": {
+        "deposit": 450000000,
+        "monthly_rent": 14000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۶ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، بالکن",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "تجریش",
+      "city": "تهران"
+    },
+    {
+      "id": 55,
+      "title": "۱۱۰ متر، محدوده ونک، بهار",
+      "price": 0,
+      "rent": {
+        "deposit": 700000000,
+        "monthly_rent": 20000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 20,
+        "property_unit": 10
+      },
+      "description": {
+        "building_age": "۸ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "ونک",
+      "city": "تهران"
+    },
+    {
+      "id": 56,
+      "title": "۸۵ متر، محدوده شهرک غرب، تابان",
+      "price": 0,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 15000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۴ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "شهرک غرب",
+      "city": "تهران"
+    },
+    {
+      "id": 57,
+      "title": "۹۵ متر، محدوده جردن، نگین",
+      "price": 0,
+      "rent": {
+        "deposit": 650000000,
+        "monthly_rent": 17000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 8
+      },
+      "description": {
+        "building_age": "۷ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "جردن",
+      "city": "تهران"
+    },
+    {
+      "id": 58,
+      "title": "۷۵ متر، محدوده تهران‌پارس، ستاره",
+      "price": 0,
+      "rent": {
+        "deposit": 480000000,
+        "monthly_rent": 13000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "تهران‌پارس",
+      "city": "تهران"
+    },
+    {
+      "id": 59,
+      "title": "۱۰۵ متر، محدوده فرمانیه، الماس",
+      "price": 0,
+      "rent": {
+        "deposit": 750000000,
+        "monthly_rent": 22000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 18,
+        "property_unit": 9
+      },
+      "description": {
+        "building_age": "۹ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "فرمانیه",
+      "city": "تهران"
+    },
+    {
+      "id": 60,
+      "title": "۸۵ متر، محدوده نارمک، طلایی",
+      "price": 0,
+      "rent": {
+        "deposit": 520000000,
+        "monthly_rent": 14000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۶ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "نارمک",
+      "city": "تهران"
+    },
+    {
+      "id": 61,
+      "title": "۱۰۰ متر، محدوده ملاصدرا، تابان",
+      "price": 0,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 12000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "نوساز",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "کمد دیواری، پنجره‌ها UPVC",
+        "visiting_hours": "۷ صبح تا ۱۱ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "ملاصدرا",
+      "city": "شیراز"
+    },
+    {
+      "id": 62,
+      "title": "۸۵ متر، محدوده پل معالی‌آباد، نگین",
+      "price": 0,
+      "rent": {
+        "deposit": 350000000,
+        "monthly_rent": 10000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 8,
+        "property_unit": 3
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "جنوبی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "پل معالی‌آباد",
+      "city": "شیراز"
+    },
+    {
+      "id": 63,
+      "title": "۱۲۰ متر، محدوده بلوار مدرس، ستاره",
+      "price": 0,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 15000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 6
+      },
+      "description": {
+        "building_age": "۸ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "بلوار مدرس",
+      "city": "شیراز"
+    },
+    {
+      "id": 64,
+      "title": "۹۰ متر، محدوده قصردشت، الماس",
+      "price": 0,
+      "rent": {
+        "deposit": 450000000,
+        "monthly_rent": 13000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۴ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "قصردشت",
+      "city": "شیراز"
+    },
+    {
+      "id": 65,
+      "title": "۱۱۰ متر، محدوده بلوار ستارخان، طلایی",
+      "price": 0,
+      "rent": {
+        "deposit": 600000000,
+        "monthly_rent": 18000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 7
+      },
+      "description": {
+        "building_age": "۷ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "بلوار ستارخان",
+      "city": "شیراز"
+    },
+    {
+      "id": 66,
+      "title": "۷۵ متر، محدوده بلوار چمران، بهار",
+      "price": 0,
+      "rent": {
+        "deposit": 380000000,
+        "monthly_rent": 11000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 8,
+        "property_unit": 3
+      },
+      "description": {
+        "building_age": "۳ سال",
+        "geographical_position": "جنوبی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "بلوار چمران",
+      "city": "شیراز"
+    },
+    {
+      "id": 67,
+      "title": "۹۵ متر، محدوده بلوار امیرکبیر، نگین",
+      "price": 0,
+      "rent": {
+        "deposit": 480000000,
+        "monthly_rent": 14000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۶ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "بلوار امیرکبیر",
+      "city": "شیراز"
+    },
+    {
+      "id": 68,
+      "title": "۱۳۰ متر، محدوده بلوار هفت تنان، الماس",
+      "price": 0,
+      "rent": {
+        "deposit": 700000000,
+        "monthly_rent": 20000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 18,
+        "property_unit": 9
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "بلوار هفت تنان",
+      "city": "شیراز"
+    },
+    {
+      "id": 69,
+      "title": "۸۰ متر، محدوده بلوار کریم‌خان زند، ستاره",
+      "price": 0,
+      "rent": {
+        "deposit": 420000000,
+        "monthly_rent": 12500000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "بلوار کریم‌خان زند",
+      "city": "شیراز"
+    },
+    {
+      "id": 70,
+      "title": "۱۰۰ متر، محدوده بلوار زرهی، طلایی",
+      "price": 0,
+      "rent": {
+        "deposit": 550000000,
+        "monthly_rent": 16000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 6
+      },
+      "description": {
+        "building_age": "۷ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/HomePhotos.png",
+      "location": "بلوار زرهی",
+      "city": "شیراز"
+    },
+    {
+      "id": 71,
+      "title": "۹۰ متر، محدوده احمدآباد، الماس",
+      "price": 0,
+      "rent": {
+        "deposit": 450000000,
+        "monthly_rent": 13000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home1.png",
+      "location": "احمدآباد",
+      "city": "مشهد"
+    },
+    {
+      "id": 72,
+      "title": "۱۱۰ متر، محدوده بلوار وکیل‌آباد، نگین",
+      "price": 0,
+      "rent": {
+        "deposit": 550000000,
+        "monthly_rent": 16000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 6
+      },
+      "description": {
+        "building_age": "۷ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home2.png",
+      "location": "بلوار وکیل‌آباد",
+      "city": "مشهد"
+    },
+    {
+      "id": 73,
+      "title": "۸۰ متر، محدوده بلوار خیام، ستاره",
+      "price": 0,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 12000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 8,
+        "property_unit": 3
+      },
+      "description": {
+        "building_age": "۴ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home3.png",
+      "location": "بلوار خیام",
+      "city": "مشهد"
+    },
+    {
+      "id": 74,
+      "title": "۱۰۰ متر، محدوده بلوار پیروزی، طلایی",
+      "price": 0,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 15000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۶ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home4.png",
+      "location": "بلوار پیروزی",
+      "city": "مشهد"
+    },
+    {
+      "id": 75,
+      "title": "۱۲۰ متر، محدوده بلوار احمدآباد، بهار",
+      "price": 0,
+      "rent": {
+        "deposit": 600000000,
+        "monthly_rent": 18000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 7
+      },
+      "description": {
+        "building_age": "۸ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home5.png",
+      "location": "بلوار احمدآباد",
+      "city": "مشهد"
+    },
+    {
+      "id": 76,
+      "title": "۸۵ متر، محدوده بلوار سجاد، نگین",
+      "price": 0,
+      "rent": {
+        "deposit": 480000000,
+        "monthly_rent": 14000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home6.png",
+      "location": "بلوار سجاد",
+      "city": "مشهد"
+    },
+    {
+      "id": 77,
+      "title": "۹۵ متر، محدوده بلوار کلاهدوز، الماس",
+      "price": 0,
+      "rent": {
+        "deposit": 520000000,
+        "monthly_rent": 15000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۶ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home7.png",
+      "location": "بلوار کلاهدوز",
+      "city": "مشهد"
+    },
+    {
+      "id": 78,
+      "title": "۱۳۰ متر، محدوده بلوار شهید فکوری، ستاره",
+      "price": 0,
+      "rent": {
+        "deposit": 700000000,
+        "monthly_rent": 20000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 18,
+        "property_unit": 9
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home78.png",
+      "location": "بلوار شهید فکوری",
+      "city": "مشهد"
+    },
+    {
+      "id": 79,
+      "title": "۸۰ متر، محدوده بلوار هاشم‌نژاد، طلایی",
+      "price": 0,
+      "rent": {
+        "deposit": 420000000,
+        "monthly_rent": 12500000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home79.png",
+      "location": "بلوار هاشم‌نژاد",
+      "city": "مشهد"
+    },
+    {
+      "id": 80,
+      "title": "۱۰۰ متر، محدوده بلوار امامت، بهار",
+      "price": 0,
+      "rent": {
+        "deposit": 550000000,
+        "monthly_rent": 16000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 6
+      },
+      "description": {
+        "building_age": "۷ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home80.png",
+      "location": "بلوار امامت",
+      "city": "مشهد"
+    },
+    {
+      "id": 81,
+      "title": "۹۰ متر، محدوده چهارباغ، نگارستان",
+      "price": 0,
+      "rent": {
+        "deposit": 450000000,
+        "monthly_rent": 13000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home81.png",
+      "location": "چهارباغ",
+      "city": "اصفهان"
+    },
+    {
+      "id": 82,
+      "title": "۱۱۰ متر، محدوده خیابان شیخ بهایی، الماس",
+      "price": 0,
+      "rent": {
+        "deposit": 550000000,
+        "monthly_rent": 16000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 6
+      },
+      "description": {
+        "building_age": "۷ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home82.png",
+      "location": "خیابان شیخ بهایی",
+      "city": "اصفهان"
+    },
+    {
+      "id": 83,
+      "title": "۸۰ متر، محدوده خیابان حکیم، ستاره",
+      "price": 0,
+      "rent": {
+        "deposit": 400000000,
+        "monthly_rent": 12000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 8,
+        "property_unit": 3
+      },
+      "description": {
+        "building_age": "۴ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home83.png",
+      "location": "خیابان حکیم",
+      "city": "اصفهان"
+    },
+    {
+      "id": 84,
+      "title": "۱۰۰ متر، محدوده خیابان وحید، طلایی",
+      "price": 0,
+      "rent": {
+        "deposit": 500000000,
+        "monthly_rent": 15000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۶ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home84.png",
+      "location": "خیابان وحید",
+      "city": "اصفهان"
+    },
+    {
+      "id": 85,
+      "title": "۱۲۰ متر، محدوده خیابان پروین، بهار",
+      "price": 0,
+      "rent": {
+        "deposit": 600000000,
+        "monthly_rent": 18000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 15,
+        "property_unit": 7
+      },
+      "description": {
+        "building_age": "۸ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home85.png",
+      "location": "خیابان پروین",
+      "city": "اصفهان"
+    },
+    {
+      "id": 86,
+      "title": "۸۵ متر، محدوده خیابان سجاد، نگین",
+      "price": 0,
+      "rent": {
+        "deposit": 480000000,
+        "monthly_rent": 14000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home86.png",
+      "location": "خیابان سجاد",
+      "city": "اصفهان"
+    },
+    {
+      "id": 87,
+      "title": "۹۵ متر، محدوده خیابان شمس‌آبادی، الماس",
+      "price": 0,
+      "rent": {
+        "deposit": 520000000,
+        "monthly_rent": 15000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 5
+      },
+      "description": {
+        "building_age": "۶ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home87.png",
+      "location": "خیابان شمس‌آبادی",
+      "city": "اصفهان"
+    },
+    {
+      "id": 88,
+      "title": "۱۳۰ متر، محدوده خیابان هشت بهشت، ستاره",
+      "price": 0,
+      "rent": {
+        "deposit": 700000000,
+        "monthly_rent": 20000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "parking_spaces": 2,
+        "storage_rooms": 1,
+        "floor_material": "پارکت",
+        "elevators": 2,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 18,
+        "property_unit": 9
+      },
+      "description": {
+        "building_age": "۱۰ سال",
+        "geographical_position": "غربی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "درب ضدسرقت، دوربین مداربسته",
+        "other_features": "پارکینگ، بالکن، کمد دیواری",
+        "visiting_hours": "۹ صبح تا ۹ شب"
+      },
+      "image_url": "src/assets/images/image_url/home88.png",
+      "location": "خیابان هشت بهشت",
+      "city": "اصفهان"
+    },
+    {
+      "id": 89,
+      "title": "۸۰ متر، محدوده خیابان آمادگاه، طلایی",
+      "price": 0,
+      "rent": {
+        "deposit": 420000000,
+        "monthly_rent": 12500000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 2,
+        "bathrooms": 1,
+        "parking_spaces": 1,
+        "storage_rooms": 0,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 10,
+        "property_unit": 4
+      },
+      "description": {
+        "building_age": "۵ سال",
+        "geographical_position": "شرقی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home89.png",
+      "location": "خیابان آمادگاه",
+      "city": "اصفهان"
+    },
+    {
+      "id": 90,
+      "title": "۱۰۰ متر، محدوده خیابان کاوه، بهار",
+      "price": 0,
+      "rent": {
+        "deposit": 550000000,
+        "monthly_rent": 16000000
+      },
+      "details": {
+        "transaction_type": "اجاره",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "parking_spaces": 1,
+        "storage_rooms": 1,
+        "floor_material": "سرامیک",
+        "elevators": 1,
+        "cooling_system": "کولر گازی",
+        "heating_system": "شوفاژ",
+        "toilet_type": "فرنگی",
+        "building_units": 12,
+        "property_unit": 6
+      },
+      "description": {
+        "building_age": "۷ سال",
+        "geographical_position": "شمالی",
+        "ownership_type": "شخصی",
+        "document_type": "سند رسمی",
+        "security_features": "آیفون تصویری، درب ضدسرقت",
+        "other_features": "پارکینگ، آنتن مرکزی",
+        "visiting_hours": "۸ صبح تا ۱۰ شب"
+      },
+      "image_url": "src/assets/images/image_url/home90.png",
+      "location": "خیابان کاوه",
+      "city": "اصفهان"
+    }
+  ],
+  "RealEstateConsultant": [
+    {
+      "company_name": "مشاورین املاک ستاره تهران",
+      "neighborhood": "ولیعصر",
+      "satisfaction_score": 4.5,
+      "active_listings": 120,
+      "city": "تهران",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "تخصص ما یافتن خانه دلخواه شماست.",
+      "consultants": [
+        "علی محمدی",
+        "فاطمه کریمی",
+        "محمد حسینی",
+        "زهرا رضایی",
+        "حسین نوری",
+        "مریم فروغی",
+        "رضا اکبری",
+        "سارا قاسمی",
+        "امیر کاظمی",
+        "نازنین موسوی"
+      ],
+      "contact_numbers": ["021-12345678", "021-87654321"],
+      "reviews": [
+        {
+          "name": "محمد رضایی",
+          "rating": 5,
+          "comment": "خدمات عالی و مشاوران حرفه‌ای!"
+        },
+        {
+          "name": "",
+          "rating": 4,
+          "comment": "خوب بود، اما کمی گران."
+        },
+        {
+          "name": "",
+          "rating": 4,
+          "comment": "خوب بود، اما کمی گران."
+        },
+        {
+          "name": "",
+          "rating": 4,
+          "comment": "خوب بود، اما کمی گران."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین تهران",
+      "neighborhood": "سعادت‌آباد",
+      "satisfaction_score": 4.2,
+      "active_listings": 95,
+      "city": "تهران",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه رویایی شما در یک قدمی شماست.",
+      "consultants": [
+        "احمد رحیمی",
+        "لیلا شریفی",
+        "مهدی میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "contact_numbers": ["021-23456789", "021-98765432"],
+      "reviews": [
+        {
+          "name": "فاطمه کریمی",
+          "rating": 4,
+          "comment": "برخورد خوبی داشتند."
+        },
+        {
+          "name": "",
+          "rating": 3,
+          "comment": "متوسط بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس مشهد",
+      "neighborhood": "احمدآباد",
+      "satisfaction_score": 4.7,
+      "active_listings": 110,
+      "city": "مشهد",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که شایسته شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "contact_numbers": ["051-12345678", "051-87654321"],
+      "reviews": [
+        {
+          "name": "رضا اکبری",
+          "rating": 5,
+          "comment": "عالی! بهترین خدمات."
+        },
+        {
+          "name": "رضا اکبری",
+          "rating": 5,
+          "comment": "عالی! بهترین خدمات."
+        },
+        {
+          "name": "رضا اکبری",
+          "rating": 5,
+          "comment": "عالی! بهترین خدمات."
+        },
+        {
+          "name": "رضا اکبری",
+          "rating": 5,
+          "comment": "عالی! بهترین خدمات."
+        },
+        {
+          "name": "رضا اکبری",
+          "rating": 5,
+          "comment": "عالی! بهترین خدمات."
+        },
+        {
+          "name": "رضا اکبری",
+          "rating": 5,
+          "comment": "عالی! بهترین خدمات."
+        },
+        {
+          "name": "رضا اکبری",
+          "rating": 5,
+          "comment": "عالی! بهترین خدمات."
+        },
+        {
+          "name": "",
+          "rating": 4,
+          "comment": "خوب بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی مشهد",
+      "neighborhood": "الهیه",
+      "satisfaction_score": 4.4,
+      "active_listings": 90,
+      "city": "مشهد",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "contact_numbers": ["051-23456789", "051-98765432"],
+      "reviews": [
+        {
+          "name": "سارا قاسمی",
+          "rating": 4,
+          "comment": "راضی‌کننده بود."
+        },
+        {
+          "name": "",
+          "rating": 5,
+          "comment": "خیلی خوب!"
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک بهار شیراز",
+      "neighborhood": "ملاصدرا",
+      "satisfaction_score": 4.6,
+      "active_listings": 100,
+      "city": "شیراز",
+      "logo_url": "https://example.com/logos/baharrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/baharrealestate",
+        "linkedin": "https://linkedin.com/company/baharrealestate",
+        "instagram": "https://instagram.com/baharrealestate",
+        "website": "https://baharrealestate.com"
+      },
+      "slogan": "خانه‌ای که آرامش شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "contact_numbers": ["071-12345678", "071-87654321"],
+      "reviews": [
+        {
+          "name": "نازنین موسوی",
+          "rating": 5,
+          "comment": "خدمات بسیار خوبی ارائه دادند."
+        },
+        {
+          "name": "",
+          "rating": 4,
+          "comment": "قیمت‌ها کمی بالا بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک تابان شیراز",
+      "neighborhood": "پل معالی‌آباد",
+      "satisfaction_score": 4.3,
+      "active_listings": 85,
+      "city": "شیراز",
+      "logo_url": "https://example.com/logos/tabanrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/tabanrealestate",
+        "linkedin": "https://linkedin.com/company/tabanrealestate",
+        "instagram": "https://instagram.com/tabanrealestate",
+        "website": "https://tabanrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "contact_numbers": ["071-23456789", "071-98765432"],
+      "reviews": [
+        {
+          "name": "امیر کاظمی",
+          "rating": 4,
+          "comment": "خدمات خوبی داشتند."
+        },
+        {
+          "name": "",
+          "rating": 3,
+          "comment": "متوسط بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگارستان اصفهان",
+      "neighborhood": "چهارباغ",
+      "satisfaction_score": 4.8,
+      "active_listings": 130,
+      "city": "اصفهان",
+      "logo_url": "https://example.com/logos/negarestanrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/negarestanrealestate",
+        "linkedin": "https://linkedin.com/company/negarestanrealestate",
+        "instagram": "https://instagram.com/negarestanrealestate",
+        "website": "https://negarestanrealestate.com"
+      },
+      "slogan": "خانه‌ای که زیبایی شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "contact_numbers": ["031-12345678", "031-87654321"],
+      "reviews": [
+        {
+          "name": "زهرا رضایی",
+          "rating": 5,
+          "comment": "عالی! بهترین خدمات."
+        },
+        {
+          "name": "",
+          "rating": 4,
+          "comment": "خوب بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس اصفهان",
+      "neighborhood": "خیابان شیخ بهایی",
+      "satisfaction_score": 4.5,
+      "active_listings": 115,
+      "city": "اصفهان",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که ارزش شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "contact_numbers": ["031-23456789", "031-98765432"],
+      "reviews": [
+        {
+          "name": "حسین نوری",
+          "rating": 4,
+          "comment": "راضی‌کننده بود."
+        },
+        {
+          "name": "",
+          "rating": 5,
+          "comment": "خیلی خوب!"
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک ستاره تبریز",
+      "neighborhood": "جنت‌آباد",
+      "satisfaction_score": 4.2,
+      "active_listings": 80,
+      "city": "تبریز",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "contact_numbers": ["041-12345678", "041-87654321"],
+      "reviews": [
+        {
+          "name": "مریم فروغی",
+          "rating": 5,
+          "comment": "خدمات بسیار خوبی ارائه دادند."
+        },
+        {
+          "name": "",
+          "rating": 4,
+          "comment": "قیمت‌ها کمی بالا بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین تبریز",
+      "neighborhood": "ولیعصر",
+      "satisfaction_score": 4.1,
+      "active_listings": 75,
+      "city": "تبریز",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه‌ای که آرامش شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "contact_numbers": ["041-23456789", "041-98765432"],
+      "reviews": [
+        {
+          "name": "رضا اکبری",
+          "rating": 4,
+          "comment": "خدمات خوبی داشتند."
+        },
+        {
+          "name": "",
+          "rating": 3,
+          "comment": "متوسط بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی کرج",
+      "neighborhood": "گلشهر",
+      "satisfaction_score": 4.3,
+      "active_listings": 90,
+      "city": "کرج",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "phone_numbers": ["02612345678", "02687654321"],
+      "reviews": [
+        {
+          "sender_name": "علی رضایی",
+          "rating": 4.5,
+          "comment": "خدمات بسیار عالی و مشاوران حرفه‌ای."
+        },
+        {
+          "sender_name": "",
+          "rating": 4.0,
+          "comment": "خوب بود ولی می‌توانست بهتر باشد."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک بهار کرج",
+      "neighborhood": "مهرشهر",
+      "satisfaction_score": 4.0,
+      "active_listings": 85,
+      "city": "کرج",
+      "logo_url": "https://example.com/logos/baharrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/baharrealestate",
+        "linkedin": "https://linkedin.com/company/baharrealestate",
+        "instagram": "https://instagram.com/baharrealestate",
+        "website": "https://baharrealestate.com"
+      },
+      "slogan": "خانه‌ای که آرامش شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "phone_numbers": ["02623456789", "02698765432"],
+      "reviews": [
+        {
+          "sender_name": "مریم حسینی",
+          "rating": 4.2,
+          "comment": "برخورد خوبی داشتند، راضی بودم."
+        },
+        {
+          "sender_name": "",
+          "rating": 3.8,
+          "comment": "معمولی بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس قم",
+      "neighborhood": "بلوار امین",
+      "satisfaction_score": 4.4,
+      "active_listings": 70,
+      "city": "قم",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که ارزش شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "phone_numbers": ["02512345678", "02587654321"],
+      "reviews": [
+        {
+          "sender_name": "حسین محمدی",
+          "rating": 4.6,
+          "comment": "خیلی خوب بود، توصیه می‌کنم."
+        },
+        {
+          "sender_name": "",
+          "rating": 4.1,
+          "comment": "راضی کننده بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین قم",
+      "neighborhood": "بلوار صدوقی",
+      "satisfaction_score": 4.2,
+      "active_listings": 65,
+      "city": "قم",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه‌ای که زیبایی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "phone_numbers": ["02523456789", "02598765432"],
+      "reviews": [
+        {
+          "sender_name": "زهرا کریمی",
+          "rating": 4.3,
+          "comment": "خدمات خوبی ارائه دادند."
+        },
+        {
+          "sender_name": "",
+          "rating": 4.0,
+          "comment": "بد نبود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک ستاره رشت",
+      "neighborhood": "گلسار",
+      "satisfaction_score": 4.5,
+      "active_listings": 95,
+      "city": "رشت",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "phone_numbers": ["01312345678", "01387654321"],
+      "reviews": [
+        {
+          "sender_name": "سارا احمدی",
+          "rating": 4.7,
+          "comment": "عالی بود، بسیار راضی‌ام."
+        },
+        {
+          "sender_name": "",
+          "rating": 4.4,
+          "comment": "خوب بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی رشت",
+      "neighborhood": "میدان گیل",
+      "satisfaction_score": 4.3,
+      "active_listings": 85,
+      "city": "رشت",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "phone_numbers": ["01323456789", "01398765432"],
+      "reviews": [
+        {
+          "sender_name": "محمد حسنی",
+          "rating": 4.5,
+          "comment": "خیلی خوب بود، ممنون."
+        },
+        {
+          "sender_name": "",
+          "rating": 4.2,
+          "comment": "راضی بودم."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس بندرعباس",
+      "neighborhood": "بلوار امام خمینی",
+      "satisfaction_score": 4.1,
+      "active_listings": 60,
+      "city": "بندرعباس",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که شایسته شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "phone_numbers": ["07612345678", "07687654321"],
+      "reviews": [
+        {
+          "sender_name": "فاطمه رضایی",
+          "rating": 4.3,
+          "comment": "خدمات خوبی داشتند."
+        },
+        {
+          "sender_name": "",
+          "rating": 3.9,
+          "comment": "معمولی بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین بندرعباس",
+      "neighborhood": "بلوار طالقانی",
+      "satisfaction_score": 4.0,
+      "active_listings": 55,
+      "city": "بندرعباس",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه‌ای که زیبایی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "phone_numbers": ["07623456789", "07698765432"],
+      "reviews": [
+        {
+          "sender_name": "نرگس محمدی",
+          "rating": 4.1,
+          "comment": "خوب بود."
+        },
+        {
+          "sender_name": "",
+          "rating": 3.8,
+          "comment": "راضی کننده بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک ستاره زنجان",
+      "neighborhood": "بلوار خرم‌آباد",
+      "satisfaction_score": 4.2,
+      "active_listings": 70,
+      "city": "زنجان",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ],
+      "phone_numbers": ["02412345678", "02487654321"],
+      "reviews": [
+        {
+          "sender_name": "علی حسینی",
+          "rating": 4.4,
+          "comment": "خیلی خوب بود."
+        },
+        {
+          "sender_name": "",
+          "rating": 4.0,
+          "comment": "راضی بودم."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی زنجان",
+      "neighborhood": "بلوار معلم",
+      "satisfaction_score": 4.1,
+      "active_listings": 65,
+      "city": "زنجان",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ],
+      "phone_numbers": ["02423456789", "02498765432"],
+      "reviews": [
+        {
+          "sender_name": "مریم رضایی",
+          "rating": 4.2,
+          "comment": "خدمات خوبی داشتند."
+        },
+        {
+          "sender_name": "",
+          "rating": 3.9,
+          "comment": "معمولی بود."
+        }
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس یزد",
+      "neighborhood": "بلوار بسیج",
+      "satisfaction_score": 4.5,
+      "active_listings": 90,
+      "city": "یزد",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که ارزش شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین ارومیه",
+      "neighborhood": "بلوار دانش",
+      "satisfaction_score": 4.3,
+      "active_listings": 85,
+      "city": "ارومیه",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه‌ای که زیبایی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی چالوس",
+      "neighborhood": "بلوار معلم",
+      "satisfaction_score": 4.6,
+      "active_listings": 70,
+      "city": "چالوس",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک ستاره کرمان",
+      "neighborhood": "بلوار جمهوری",
+      "satisfaction_score": 4.4,
+      "active_listings": 80,
+      "city": "کرمان",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک بهار همدان",
+      "neighborhood": "بلوار بعثت",
+      "satisfaction_score": 4.2,
+      "active_listings": 75,
+      "city": "همدان",
+      "logo_url": "https://example.com/logos/baharrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/baharrealestate",
+        "linkedin": "https://linkedin.com/company/baharrealestate",
+        "instagram": "https://instagram.com/baharrealestate",
+        "website": "https://baharrealestate.com"
+      },
+      "slogan": "خانه‌ای که آرامش شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس قزوین",
+      "neighborhood": "بلوار شهید بابایی",
+      "satisfaction_score": 4.5,
+      "active_listings": 85,
+      "city": "قزوین",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که ارزش شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین ساری",
+      "neighborhood": "بلوار خزر",
+      "satisfaction_score": 4.3,
+      "active_listings": 70,
+      "city": "ساری",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه‌ای که زیبایی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی گرگان",
+      "neighborhood": "بلوار ناهارخوران",
+      "satisfaction_score": 4.4,
+      "active_listings": 65,
+      "city": "گرگان",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک ستاره بجنورد",
+      "neighborhood": "بلوار معلم",
+      "satisfaction_score": 4.1,
+      "active_listings": 60,
+      "city": "بجنورد",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک بهار یاسوج",
+      "neighborhood": "بلوار شهید بهشتی",
+      "satisfaction_score": 4.0,
+      "active_listings": 55,
+      "city": "یاسوج",
+      "logo_url": "https://example.com/logos/baharrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/baharrealestate",
+        "linkedin": "https://linkedin.com/company/baharrealestate",
+        "instagram": "https://instagram.com/baharrealestate",
+        "website": "https://baharrealestate.com"
+      },
+      "slogan": "خانه‌ای که آرامش شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس خرم‌آباد",
+      "neighborhood": "بلوار شریعتی",
+      "satisfaction_score": 4.2,
+      "active_listings": 65,
+      "city": "خرم‌آباد",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که ارزش شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین سنندج",
+      "neighborhood": "بلوار پاسداران",
+      "satisfaction_score": 4.3,
+      "active_listings": 70,
+      "city": "سنندج",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه‌ای که زیبایی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی زاهدان",
+      "neighborhood": "بلوار امام خمینی",
+      "satisfaction_score": 4.1,
+      "active_listings": 60,
+      "city": "زاهدان",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک ستاره کرمانشاه",
+      "neighborhood": "بلوار شهید بهشتی",
+      "satisfaction_score": 4.4,
+      "active_listings": 75,
+      "city": "کرمانشاه",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک بهار اراک",
+      "neighborhood": "بلوار امام خمینی",
+      "satisfaction_score": 4.2,
+      "active_listings": 70,
+      "city": "اراک",
+      "logo_url": "https://example.com/logos/baharrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/baharrealestate",
+        "linkedin": "https://linkedin.com/company/baharrealestate",
+        "instagram": "https://instagram.com/baharrealestate",
+        "website": "https://baharrealestate.com"
+      },
+      "slogan": "خانه‌ای که آرامش شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس بوشهر",
+      "neighborhood": "بلوار ساحلی",
+      "satisfaction_score": 4.3,
+      "active_listings": 65,
+      "city": "بوشهر",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که ارزش شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین بیرجند",
+      "neighborhood": "بلوار معلم",
+      "satisfaction_score": 4.1,
+      "active_listings": 60,
+      "city": "بیرجند",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه‌ای که زیبایی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی ایلام",
+      "neighborhood": "بلوار دانشجو",
+      "satisfaction_score": 4.0,
+      "active_listings": 55,
+      "city": "ایلام",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک ستاره شهرکرد",
+      "neighborhood": "بلوار بسیج",
+      "satisfaction_score": 4.2,
+      "active_listings": 65,
+      "city": "شهرکرد",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک بهار سمنان",
+      "neighborhood": "بلوار دانشگاه",
+      "satisfaction_score": 4.3,
+      "active_listings": 70,
+      "city": "سمنان",
+      "logo_url": "https://example.com/logos/baharrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/baharrealestate",
+        "linkedin": "https://linkedin.com/company/baharrealestate",
+        "instagram": "https://instagram.com/baharrealestate",
+        "website": "https://baharrealestate.com"
+      },
+      "slogan": "خانه‌ای که آرامش شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک الماس دامغان",
+      "neighborhood": "بلوار امام خمینی",
+      "satisfaction_score": 4.1,
+      "active_listings": 60,
+      "city": "دامغان",
+      "logo_url": "https://example.com/logos/almasrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/almasrealestate",
+        "linkedin": "https://linkedin.com/company/almasrealestate",
+        "instagram": "https://instagram.com/almasrealestate",
+        "website": "https://almasrealestate.com"
+      },
+      "slogan": "خانه‌ای که ارزش شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک نگین سبزوار",
+      "neighborhood": "بلوار معلم",
+      "satisfaction_score": 4.2,
+      "active_listings": 65,
+      "city": "سبزوار",
+      "logo_url": "https://example.com/logos/neginrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/neginrealestate",
+        "linkedin": "https://linkedin.com/company/neginrealestate",
+        "instagram": "https://instagram.com/neginrealestate",
+        "website": "https://neginrealestate.com"
+      },
+      "slogan": "خانه‌ای که زیبایی شماست.",
+      "consultants": [
+        "رضا رضایی",
+        "فاطمه شریفی",
+        "محمد میرزایی",
+        "نرگس جعفری",
+        "سعید صادقی",
+        "زینب محمدی",
+        "عباس کریمی",
+        "مینا حسینی",
+        "پویا نوری",
+        "شیما فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک طلایی نیشابور",
+      "neighborhood": "بلوار شهید بهشتی",
+      "satisfaction_score": 4.3,
+      "active_listings": 70,
+      "city": "نیشابور",
+      "logo_url": "https://example.com/logos/talaeeirealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/talaeeirealestate",
+        "linkedin": "https://linkedin.com/company/talaeeirealestate",
+        "instagram": "https://instagram.com/talaeeirealestate",
+        "website": "https://talaeeirealestate.com"
+      },
+      "slogan": "خانه‌ای که آرزوی شماست.",
+      "consultants": [
+        "محسن رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    },
+    {
+      "company_name": "مشاورین املاک ستاره کاشان",
+      "neighborhood": "بلوار امام خمینی",
+      "satisfaction_score": 4.4,
+      "active_listings": 75,
+      "city": "کاشان",
+      "logo_url": "https://example.com/logos/starrealestate.png",
+      "social_links": {
+        "telegram": "https://t.me/starrealestate",
+        "linkedin": "https://linkedin.com/company/starrealestate",
+        "instagram": "https://instagram.com/starrealestate",
+        "website": "https://starrealestate.com"
+      },
+      "slogan": "خانه‌ای که رویای شماست.",
+      "consultants": [
+        "محمد رضایی",
+        "فریبا شریفی",
+        "امیرحسین میرزایی",
+        "ناهید جعفری",
+        "سجاد صادقی",
+        "زهرا محمدی",
+        "علیرضا کریمی",
+        "مرضیه حسینی",
+        "پارسا نوری",
+        "شیرین فروغی"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+/* Set text direction for Persian language */
+.counseling-section {
+  direction: rtl;
+}
+
+/* Slider styles only for mobile view (less than 1024px) */
+@media (max-width: 1023px) {
+  .card-handler {
+    /* Enable smooth touch scrolling */
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+
+    /* Hide scrollbar in different browsers */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+
+    /* Set snap points for slides */
+    scroll-snap-type: x mandatory;
+  }
+
+  /* Hide scrollbar in Chrome and Safari */
+  .card-handler::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Change cursor style during drag */
+  .card-handler.dragging {
+    cursor: grabbing;
+    user-select: none;
+  }
+
+  /* Set snap point for each card */
+  .card-container {
+    scroll-snap-align: center;
+  }
+}

@@ -98,3 +98,10 @@
         top: 0 !important;
     }
   }
+
+  .logout-btn{
+    background-color: var(--perimary-color);
+    color: white;
+    padding: 1px 8px;
+    border-radius: 10px;
+  }

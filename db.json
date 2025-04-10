@@ -1,0 +1,29 @@
+{
+  "newsCard": [
+    {
+      "id": 1,
+      "src": "src/assets/images/news1.png",
+      "title": "اخبار و اطلاعات بازار مسکن"
+    },
+    {
+      "id": 2,
+      "src": "src/assets/images/news2.png",
+      "title": "راهنمای خرید و فروش ملک"
+    },
+    {
+      "id": 3,
+      "src": "src/assets/images/news3.png",
+      "title": "قوانین و مقررات معاملات ملکی"
+    },
+    {
+      "id": 4,
+      "src": "src/assets/images/news4.png",
+      "title": "مشاوره رایگان خرید و فروش"
+    },
+    {
+      "id": 5,
+      "src": "src/assets/images/news5.png",
+      "title": "آموزش سرمایه‌گذاری در املاک"
+    }
+  ]
+}

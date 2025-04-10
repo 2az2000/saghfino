@@ -3,21 +3,57 @@
 } */
 
 @media screen and (max-width: 900px) {
-    .card-handler{
+  /* .card-handler{
         flex-direction: column !important;
-    }
-    .card-container{
-        width: 100% !important;
-    }
-  }
-  @media screen and (max-width: 750px) {
+    } */
+  /* .card-container {
+    width: 100%;
+  } */
+}
+/* @media screen and (max-width: 750px) {
     .landing-main h1 {
       font-size: 30px;
     }
     .landing-main h2 {
       font-size: 20px;
     }
-  }
-  @media screen and (max-width: 480px) {
+  } */
+@media screen and (max-width: 480px) {
+}
+
+/* Set text direction for Persian language */
+.help-section {
+  direction: rtl;
+}
+
+/* Slider styles only for mobile view (less than 1024px) */
+@media (max-width: 1023px) {
+  .card-handler {
+    /* Enable smooth touch scrolling */
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+
+    /* Hide scrollbar in different browsers */
+    scrollbar-width: none; /* Firefox */
+    -ms-overflow-style: none; /* IE and Edge */
+
+    /* Set snap points for slides */
+    scroll-snap-type: x mandatory;
   }
 
+  /* Hide scrollbar in Chrome and Safari */
+  .card-handler::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Change cursor style during drag */
+  .card-handler.dragging {
+    cursor: grabbing;
+    user-select: none;
+  }
+
+  /* Set snap point for each card */
+  .card-container {
+    scroll-snap-align: center;
+  }
+}

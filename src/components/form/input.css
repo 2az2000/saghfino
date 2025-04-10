@@ -1,0 +1,6 @@
+.success{
+    border-color: var(--State--Success) !important ;
+}
+.error{
+    border-color: var(--State--error) !important;
+}

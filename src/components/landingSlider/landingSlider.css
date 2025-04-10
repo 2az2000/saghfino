@@ -1,10 +1,164 @@
-.slider{
-    display: flex;
-    gap: 10px;
-    overflow: hidden;
+/* .slider{
     transition: transform 0.1s ease-in-out;
-    justify-content: space-between;
+} */
+/* 
+.main-slider {
+  direction: ltr;
+} */
+
+.hide-right {
+  right: -10%;
 }
-.slider.animating {
-    transform: translateX(-110px);
+.hide-left {
+  left: -10%;
+}
+
+.h1 {
+  position: absolute;
+  top: 100px;
+}
+
+.slider-handler > button {
+  position: absolute;
+  border-radius: 50%;
+  cursor: pointer;
+  z-index: 10;
+  transition: 0.5s;
+}
+.prev {
+  left: 10px;
+}
+.next {
+  right: 10px;
+}
+
+/* .main-slider {
+    width: 100%;
+    margin: 0 auto;
+  } */
+
+.slider-handler {
+  position: relative;
+}
+
+.slider {
+  display: flex;
+  transition: transform 0.3s ease;
+}
+
+.card-container {
+  flex: 0 0 auto;
+  width: 300px; 
+  margin: 0 8px;
+}
+
+.prev,
+.next {
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+
+.prev img,
+.next img {
+  width: 24px;
+  height: 24px;
+}
+
+/* رسپانسیو برای موبایل و تبلت */
+@media (max-width: 767px) {
+  .card-container {
+    /* width: 100% !important; عرض کارت‌ها در موبایل */
+    margin: 0 5px;
   }
+
+  .slider {
+    gap: 10px;
+  }
+
+  .prev,
+  .next {
+    padding: 5px;
+  }
+}
+
+/* @media (min-width: 768px) and (max-width: 1023px) {
+  .card-container {
+    width: 45% !important; عرض کارت‌ها در تبلت
+  }
+} */
+
+.slider-section {
+  /* direction: rtl; */
+}
+
+.slider-content {
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none; /* IE and Edge */
+}
+
+.slider-content::-webkit-scrollbar {
+  display: none; /* Chrome, Safari and Opera */
+}
+
+/* Button hide animations */
+.hide-right {
+  animation: slideRight 0.5s forwards;
+}
+
+.hide-left {
+  animation: slideLeft 0.5s forwards;
+}
+
+@keyframes slideRight {
+  from {
+    right: 0;
+    opacity: 1;
+  }
+  to {
+    right: -50px;
+    opacity: 0;
+  }
+}
+
+@keyframes slideLeft {
+  from {
+    left: 0;
+    opacity: 1;
+  }
+  to {
+    left: -50px;
+    opacity: 0;
+  }
+}
+
+/* Hide buttons on mobile */
+@media (max-width: 640px) {
+  .prev-btn,
+  .next-btn {
+    display: none;
+  }
+}
+
+/* Show buttons with hover effect on desktop */
+@media (min-width: 1024px) {
+  .prev-btn,
+  .next-btn {
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+
+  .slider-container:hover .prev-btn:not(.hide-left),
+  .slider-container:hover .next-btn:not(.hide-right) {
+    opacity: 1;
+  }
+
+  .prev-btn:disabled,
+  .next-btn:disabled {
+    opacity: 0.3;
+    cursor: not-allowed;
+  }
+}

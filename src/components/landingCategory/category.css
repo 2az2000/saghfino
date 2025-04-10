@@ -1,0 +1,55 @@
+.category-section {
+  direction: rtl;
+}
+
+/* استایل‌های اسلایدر فقط برای حالت موبایل */
+@media (max-width: 1023px) {
+  .card-handler {
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+    scrollbar-width: none; /* برای فایرفاکس */
+    -ms-overflow-style: none; /* برای اینترنت اکسپلورر و اج */
+    scroll-snap-type: x mandatory;
+  }
+
+  .card-handler::-webkit-scrollbar {
+    display: none; /* برای کروم، سافاری و اپرا */
+  }
+
+  .card-handler.dragging {
+    cursor: grabbing;
+    user-select: none;
+  }
+
+  .card-container {
+    scroll-snap-align: center;
+  }
+}
+
+.card-handler {
+  -webkit-overflow-scrolling: touch;
+  scroll-behavior: smooth;
+  scrollbar-width: none; /* برای فایرفاکس */
+  -ms-overflow-style: none; /* برای اینترنت اکسپلورر و اج */
+}
+
+.card-handler::-webkit-scrollbar {
+  display: none; /* برای کروم، سافاری و اپرا */
+}
+
+.card-handler.dragging {
+  cursor: grabbing;
+  user-select: none;
+}
+
+/* استایل‌های رسپانسیو */
+@media (max-width: 768px) {
+  .card-handler {
+    scroll-snap-type: x mandatory;
+    padding: 0 1rem;
+  }
+
+  .card-container {
+    scroll-snap-align: center;
+  }
+}

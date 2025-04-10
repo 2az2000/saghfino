@@ -1,7 +1,7 @@
 import React from "react";
 import "./card.css";
 
-export default function Card({ src , title , poem }) {
+export default function Card({ src , title , poem , containerClass , cardClass , imageClass , titleClass , poemClass }) {
   return (
     <>
       <div className="card-container w-1/4 flex flex-col rounded-2xl pb-8">
@@ -11,6 +11,6 @@ export default function Card({ src , title , poem }) {
           <p className="text-lg">{poem}</p>
         </div>
       </div>
-    </>
+    </> 
   );
 }

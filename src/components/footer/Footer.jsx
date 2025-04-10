@@ -1,13 +1,41 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
 import "./footer.css";
 export default function Footer() {
+  const [isVisible, setIsVisible] = useState(false);
+
+  // تابعی که بررسی می‌کند آیا ارتفاع صفحه کمتر از مقدار مشخصی است یا نه
+  const checkWindowSize = () => {
+    if (window.innerWidth > 900) { // اگر ارتفاع صفحه کمتر از 500 پیکسل باشد
+      setIsVisible(true);
+      // console.log(isVisible);
+      
+    } else {
+      setIsVisible(false);
+    }
+  };
+
+  useEffect(() => {
+    // اضافه کردن event listener برای تغییر اندازه صفحه
+    window.addEventListener('resize', checkWindowSize);
+
+    // بررسی اولیه هنگام رندر کامپوننت
+    checkWindowSize();
+
+    // تمیز کردن event listener هنگام unmount
+    return () => {
+      window.removeEventListener('resize', checkWindowSize);
+    };
+  }, [isVisible]);
   return (
     <>
-      <div className="footer h-screen w-screen">
+      <div className="footer h-screen w-full">
         <h1 className="footer-title text-center p-10">
           سقفینو؛ سقفی ایده‌آل برای زندگی
         </h1>
         <div className="top-footer-menu w-full flex  justify-between px-44 py-7">
+          {
+            isVisible &&
+          <>
           <div className="top-footer-item flex flex-col gap-2">
             <p>بازارهای املاک و مستغلات</p>
             <ul>
@@ -52,8 +80,13 @@ export default function Footer() {
               </li>
             </ul>
           </div>
+</>
+}
         </div>
+        {
+          isVisible &&
         <hr className="mx-auto mb-4"/>
+        }
 
         <div className="botton-footer-menu w-full flex px-44 ">
           <div className="about-footer w-2/5 pl-3 flex flex-col gap-3">

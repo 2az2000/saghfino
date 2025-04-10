@@ -11,7 +11,7 @@ export default function Card({ src , title , poem }) {
           <p className="text-sm">{poem}</p>
         </div>
         <button className="help-btn">اجاره خانه</button>
-      </div>
+      </div> 
     </>
   );
 }
